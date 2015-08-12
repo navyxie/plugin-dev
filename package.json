@@ -1,0 +1,36 @@
+{
+  "name": "plugin-dev",
+  "version": "0.0.1",
+  "description": "插件化开发管理库",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/navyxie/plugin-dev.git"
+  },
+  "keywords": [
+    "plugin",
+    "develop",
+    "manage"
+  ],
+  "devDependencies": {
+  
+  },
+  "dependencies": {
+    
+  },
+  "author": {
+    "name": "navyxie"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/navyxie/plugin-dev",
+  "maintainers": [
+    {
+      "name": "navyxie",
+      "email": "navyxie2010@gmail.com"
+    }
+  ],
+  "directories": {}
+}
